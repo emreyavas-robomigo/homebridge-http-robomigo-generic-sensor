@@ -1,5 +1,5 @@
 # homebridge-http-robomigo-generic-sensor Plugin
-This is an Updated Version of dural/homebridge-http-robomigo-generic-sensor
+This is an Updated Version of dural/homebridge-http-contact-sensor 
 which was forked from Supereg/homebridge-http-robomigo-generic-sensor
 
 ## Installation
@@ -257,4 +257,4 @@ To get more details about the configuration have a look at the
 
 Down here are all characteristics listed which can be updated with an request to the `homebridge-http-notification-server`
 
-* `characteristic` "ContactSensor": expects an float `value` in a range of 0-100 (step 0.1)
+* `characteristic` "ContactSensor": expects 1 or 0
