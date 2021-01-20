@@ -1,6 +1,6 @@
 # homebridge-http-robomigo-generic-sensor Plugin
 This is an Updated Version of dural/homebridge-http-contact-sensor 
-which was forked from Supereg/homebridge-http-robomigo-generic-sensor
+which was forked from  from Supereg/homebridge-http-temperature-sensor
 
 ## Installation
 
